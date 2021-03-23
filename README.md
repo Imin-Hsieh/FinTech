@@ -1,21 +1,40 @@
 # 雲端運算服務
 ## 六次作業學習紀錄
 
-[**HW1**](https://github.com/Imin-Hsieh/FinTech/blob/main/HW1.md)
+>[**HW1**](https://github.com/Imin-Hsieh/FinTech/blob/main/HW1.md)
 
     以關於雲端的知識與主觀想法來描述雲端運算與其產業的趨勢發展。
+>>作業繳交日為 3/22 上課前
     
-[**HW2作業操作錄影 YouTube 連結**](https://youtu.be/Spo5mPrvohw)
+>[**HW2作業操作錄影 YouTube 連結**](https://youtu.be/Spo5mPrvohw)
 
     藉 Linux 2 虛擬機完成安裝 LAMP 解決方案包，並啟動網頁伺服器與資料庫伺服器，並且於過程中說明與解釋操作步驟。
     
-**HW3作業操作錄影 YouTube 連結**
+>>作業繳交日為 4/05 上課前    
+    
+>**HW3作業操作錄影 YouTube 連結**
 
-**HW4作業操作錄影 YouTube 連結**
+    堂雲端服務課程後，運用 S3 與 Amplify 服務進行網頁部署，過程中演示版本控制功能並說明與解釋操作步驟。
 
-**HW5作業操作錄影 YouTube 連結**
+>>作業繳交日為 4/12 上課前
 
-**HW6作業操作錄影 YouTube 連結**
+>**HW4作業操作錄影 YouTube 連結**
+
+    運用無伺服器框架串接 Telegram Chatbot，並且執行 DEMO 文件，達到鸚鵡機器人的效果，過程中說明與解釋操作步驟。
+
+>>作業繳交日為 4/26 上課前
+
+>**HW5作業操作錄影 YouTube 連結**
+
+    運用資料庫服務上傳給定的資料集，並且可透過界面進行 CRUD 行為，過程中說明與解釋操作步驟。
+
+>>作業繳交日為 5/03 上課前
+
+>**HW6作業操作錄影 YouTube 連結**
+
+    透過 Docker 建立 Image，並執行該 Container，其內容可以是程序執行、各種伺服器服務等，並上傳至 Docker Hub，過程中說明與解釋您的操作步驟。
+
+>>作業繳交日為 5/17 上課前
 
 # 專案：永豐金控題目一
 
