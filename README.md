@@ -32,7 +32,7 @@
 
 >**HW6作業操作錄影 YouTube 連結**
 
-    透過 Docker 建立 Image，並執行該 Container，其內容可以是程序執行、各種伺服器服務等，並上傳至 Docker Hub，過程中說明與解釋您的操作步驟。
+    透過 Docker 建立 Image，並執行該 Container，其內容可以是程序執行、各種伺服器服務等，並上傳至 Docker Hub，過程中說明與解釋操作步驟。
 
 >>作業繳交日為 5/17 上課前
 
