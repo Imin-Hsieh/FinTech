@@ -1,5 +1,5 @@
 # FinTech
-##HOMEWORK
+## HOMEWORK
 
 [**HW1**](https://github.com/Imin-Hsieh/FinTech/blob/main/HW1.md)
 
@@ -13,4 +13,4 @@
 
 **HW6**
 
-##專案：永豐金控題目一
+## 專案：永豐金控題目一
