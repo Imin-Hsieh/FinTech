@@ -21,7 +21,7 @@
 >>作業繳交日為 4/05 上課前    
 
 
->**HW3作業操作錄影 YouTube 連結**
+>[**HW3作業操作錄影 YouTube 連結**](https://www.youtube.com/watch?v=IY86724okqc)
 
     堂雲端服務課程後，運用 S3 與 Amplify 服務進行網頁部署，過程中演示版本控制功能並說明與解釋操作步驟。
 
