@@ -28,7 +28,7 @@
 >>作業繳交日為 4/12 上課前
 
 
->[**HW4作業操作錄影 YouTube 連結**](https://www.youtube.com/watch?v=YCaGKQq9bmU)
+>[**HW4作業操作錄影 YouTube 連結**](https://www.youtube.com/watch?v=nY7OyDzll-A)
 
     運用無伺服器框架串接 Telegram Chatbot，並且執行 DEMO 文件，達到鸚鵡機器人的效果，過程中說明與解釋操作步驟。
 
