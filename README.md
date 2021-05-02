@@ -35,7 +35,7 @@
 >>作業繳交日為 4/26 上課前
 
 
->**HW5作業操作錄影 YouTube 連結**(https://www.youtube.com/watch?v=b_SNIhZNOdg)
+>[**HW5作業操作錄影 YouTube 連結**](https://www.youtube.com/watch?v=b_SNIhZNOdg)
 
     運用資料庫服務上傳給定的資料集，並且可透過界面進行 CRUD 行為，過程中說明與解釋操作步驟。
 
